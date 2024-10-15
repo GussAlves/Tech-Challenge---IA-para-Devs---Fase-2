@@ -1,4 +1,4 @@
-# Tech-Challenge---IA-para-Devs---Fase-2
+# Tech-Challenge IA para Devs | Fase-2
 
 # Otimização de Alocação de Sensores de Segurança com Algoritmos Genéticos
 
@@ -57,9 +57,9 @@ Este projeto tem como objetivo otimizar a alocação de sensores de monitorament
 
 ## Resultados e Comparações
 - **Melhor Alocação Identificada**:
- > Criticidade Total: 8,5
- > Custo Total: R$ 2.300
- > Capacidade Total: 370 unidades
+    ->  Criticidade Total: 8,5
+    -> Custo Total: R$ 2.300
+    -> Capacidade Total: 370 unidades
 
 ## Comparação de Eficiência
 
